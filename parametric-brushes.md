@@ -49,8 +49,9 @@ Samples and tests are published in 2013 on my g+ account and, all are realized w
 * Comparison 3 and conclusions about the behavior of paint dynamics for dry media  between parametric and raster brushes. [See](https://plus.google.com/+AmericoGobbo/posts/VHy2sNcteRK)
 
 ## Parametric Basic Brush Set
-This set contains the .vbr basic brushes, round and block (hard and soft versions). They are the Classic brushes that the user to any task to painting or drawing. The idea to put in evidence these brushes is motivated for my ideas and concepts around the real possibilities of parametric brushes on GIMP with paint dynamics to solve many issues of pictorial techniques for the traditional digital painting based in the current mainstream and tastes around finishing of the works.
-The 'BO' folder contains the .vbr basic brushes, round and block (hard and soft versions).
+The idea to put in evidence these brushes is motivated by the real possibilities of the parametric brushes on GIMP to solve many issues of pictorial techniques with simple and dedicated paint dynamics.
+
+This set contains the .vbr basic brushes, round and block (hard and soft versions). The 'BO' folder contains the .vbr basic brushes, round and block (hard and soft versions).
 
 ### Author, License and Download
 The Brush Set [[download](todo)] was created by Americo Gobbo and licensed as Public Domain.
