@@ -7,7 +7,7 @@ _Noise in my head, by Jag, 2013._
 
 ## Which is better as classical brush, the parametric or a raster brush?
 
-On GIMP the brush set have an small quantity of parametric brushes… why reason? Sincerely I do not know, perhaps, many illustrators, concept artists, photographers have been accustomed to see/utilize only raster brushes.
+On GIMP the brush set have a small amount of parametric brushes… why reason? Sincerely I do not know, perhaps, many illustrators, concept artists, photographers have been accustomed to see/utilize only raster brushes.
 
 My idea is very simple, up to what point the parametric brush, as a classical brush, could be used on digital painting?
 
