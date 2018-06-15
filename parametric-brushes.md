@@ -1,9 +1,9 @@
 # Parametric versus Raster brush
-Author: Americo Americo
+Author: Americo Americo</br>
 Date: 2018 June
 
 ![](parametric-brushes.assets/parametric-brushes-noise-in-my-head-2013.jpeg)
-_Noise in my head, by Jag, 2013._
+<div style="font-size:small">_Noise in my head, by Jag, 2013._</div>
 
 ## Which is better as classical brush, the parametric or a raster brush?
 
@@ -15,7 +15,7 @@ I thought a simple test … I did a parametric calligraphic brush, very small wi
 
 From my tests among both brushes, it results that the parametric is better than its equivalent .gbr, if are thinking in classic dabs, round, square, diamond and variations of shape forms based in spikes.
 
-_Figure 1 - Simple strokes comparison between parametric and static raster brush with same seed._
+<div style="font-size:small">_Figure 1 - Simple strokes comparison between parametric and static raster brush with same seed._</div>
 
 The default shapes are round, square and diamond. Is also possible create a great variation of the shapes, using the different parameters to control the shape and its aspect (radius, spikes, hardness, aspect ratio, angle and spacing).
 
@@ -23,8 +23,9 @@ The stroke of parametric brush is more sharpest and hard when we use hardness eq
 
 ## How to combine parametric brushes and paint dynamics
 I think is not possible have an unequivocal rule to combine brushes with paint dynamics, instead is possible to say that, in general: each paint dynamics represents an effect or a different technique.
-![](parametric-brushes.assets/parametric-brushes-personaggio-bizarro_noises-brushes-with-my-generic-pencil-dyna.jpg)
-_Figure 2 - A fast sample made with many paint dynamics with the same parametric brush._
+
+<img src="parametric-brushes.assets/parametric-brushes-personaggio-bizarro_noises-brushes-with-my-generic-pencil-dyna.jpg" style="float: left"></img>
+<div style="font-size:small">_Figure 2 - A fast sample made with many paint dynamics with the same parametric brush._</dib>
 
 ### Dry Media Experiments
 I thought to begin with classic main dry media as pencil, crayon, charcoal and pastel.
@@ -36,9 +37,9 @@ Basically the paint dynamic emulates the technique and the brush emulates the st
 To explore I have revised a bit the Pencil Generic Paint Dynamics
 to adapt better it to other dry media and it [here](). [ToDo]
 
-_Figure 3 - Samples using many parametric brushes with my paint dynamic for dry media._ [ToDo]
+<div style="font-size:small">_Figure 3 - Samples using many parametric brushes with my paint dynamic for dry media._</div> [ToDo]
 
-_Figure 4 - Sample with my Paint dynamics for generic dry media with airbrush and other paint tools. I’ve used the jitter to control the spread of the medium._[ToDo]
+<div style="font-size:small">_Figure 4 - Sample with my Paint dynamics for generic dry media with airbrush and other paint tools. I’ve used the jitter to control the spread of the medium._</div>[ToDo]
 
 ### Samples and Tests
 Samples and tests are published in 2013 on my g+ account and, all are realized with a paint dynamics shared [here](). [ToDo]
