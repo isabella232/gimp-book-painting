@@ -14,9 +14,7 @@ I thought a simple test … I did a parametric calligraphic brush, very small wi
 
 From my tests among both brushes, it results that the parametric is better than its equivalent .gbr, if are thinking in classic dabs, round, square, diamond and variations of shape forms based in spikes.
 
-<div style="margin:20px;">
-![](parametric-brushes.assets/parametric-brushes-basic-parametric-brushes-editor-brs.png)
-<div style="font-size:small;">_Brushset and Parametric Editor_</div></div>
+![](parametric-brushes.assets/parametric-brushes-basic-parametric-brushes-editor-brs.png)<div style="font-size:small;">_Brushset and Parametric Editor_</div>
 
 The default shapes are round, square and diamond. Is also possible create a great variation of the shapes, using the different parameters to control the shape and its aspect (radius, spikes, hardness, aspect ratio, angle and spacing).
 
@@ -25,9 +23,7 @@ The stroke of parametric brush is more sharpest and hard when we use hardness eq
 ## How to combine parametric brushes and paint dynamics
 I think is not possible have an unequivocal rule to combine brushes with paint dynamics, instead is possible to say that, in general: each paint dynamics represents an effect or a different technique.
 
-<div style="margin:20px">
-![](parametric-brushes.assets/parametric-brushes-deveze-parametric-brushset-sample.png)
-<div style="font-size:small">_A Gustavo Deveze using the Dry Media paint dynamics with the brushset of parametric brushes._</div></div>
+![](parametric-brushes.assets/parametric-brushes-deveze-parametric-brushset-sample.png)<div style="font-size:small;">_A Gustavo Deveze using the Dry Media paint dynamics with the brushset of parametric brushes._</div>
 
 ### Dry Media Experiments
 I thought to begin with classic main dry media as pencil, crayon, charcoal and pastel.
