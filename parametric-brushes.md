@@ -1,7 +1,6 @@
 # Parametric versus Raster brush
 Author: Americo Americo</br>Date: 2018 June
 
-
 <div style="font-size:small">_A fast sample made in 2013 by Americo Gobbo with Dry Media paint and parametric brushes._</div>
 
 ## Which is better as classical brush, the parametric or a raster brush?
@@ -13,7 +12,7 @@ My idea is very simple, up to what point the parametric brush, as a classical br
 I thought a simple test … I did a parametric calligraphic brush, very small with a radius equal to 12 px. After I have made a stamp of my parametric brush and build a static raster brush (.gbr).
 
 From my tests among both brushes, it results that the parametric is better than its equivalent .gbr, if are thinking in classic dabs, round, square, diamond and variations of shape forms based in spikes.
-![](parametric-brushes.assets/parametric-brushes-parametric-brushes-basic-parametric-brushes-editor-brs.png)
+
 _Brushset and Parametric Editor_
 
 The default shapes are round, square and diamond. Is also possible create a great variation of the shapes, using the different parameters to control the shape and its aspect (radius, spikes, hardness, aspect ratio, angle and spacing).
@@ -23,7 +22,8 @@ The stroke of parametric brush is more sharpest and hard when we use hardness eq
 ## How to combine parametric brushes and paint dynamics
 I think is not possible have an unequivocal rule to combine brushes with paint dynamics, instead is possible to say that, in general: each paint dynamics represents an effect or a different technique.
 
-![](parametric-brushes.assets/parametric-brushes-deveze-parametric-brushset-sample.png)<div style="font-size:small;">_A Gustavo Deveze using the Dry Media paint dynamics with the brushset of parametric brushes._</div>
+
+_A Gustavo Deveze using the Dry Media paint dynamics with the brushset of parametric brushes._
 
 ### Dry Media Experiments
 I thought to begin with classic main dry media as pencil, crayon, charcoal and pastel.
@@ -35,13 +35,10 @@ Basically the paint dynamic emulates the technique and the brush emulates the st
 To explore I have revised a bit the Pencil Generic Paint Dynamics
 to adapt better it to other dry media and it [here](parametric-brushes.assets/Dry-Media.gdyn).
 
-<div style="float:left;margin:20px">
 
-<div style="font-size:small">_Samples using **Paintbrush tool** with all parametric brushes of the set, shared on **Download topic**, using my paint dynamic Dry Media._</div></div>
+_Samples using **Paintbrush tool** with all parametric brushes of the set, shared on **Download topic**, using my paint dynamic Dry Media._
 
-<div style="float:left;margin:20px">
-
-<div style="font-size:small">_Samples with Dry Media Paint Dynamics using **Airbrush tool** with all parametric brushes of set shared on Download topic._</div></div>
+_Samples with Dry Media Paint Dynamics using **Airbrush tool** with all parametric brushes of set shared on Download topic._
 
 ### Samples and Tests
 Samples and tests are published in 2013 on my g+ account and, all are realized with a paint dynamics shared [here](). [ToDo]
