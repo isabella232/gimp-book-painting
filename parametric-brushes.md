@@ -13,6 +13,7 @@ My idea is very simple, up to what point the parametric brush, as a classical br
 I thought a simple test … I did a parametric calligraphic brush, very small with a radius equal to 12 px. After I have made a stamp of my parametric brush and build a static raster brush (.gbr).
 
 From my tests among both brushes, it results that the parametric is better than its equivalent .gbr, if are thinking in classic dabs, round, square, diamond and variations of shape forms based in spikes.
+
 <div style="margin:20px;">
 ![](parametric-brushes.assets/parametric-brushes-basic-parametric-brushes-editor-brs.png)
 <div style="font-size:small;">_Brushset and Parametric Editor_</div></div>
