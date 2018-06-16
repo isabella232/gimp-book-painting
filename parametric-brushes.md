@@ -1,5 +1,5 @@
 # Parametric versus Raster brush
-Author: Americo Americo <br>
+Author: Americo Gobbo<br>
 Date: 2018 June
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-personaggio-bizarro.jpg">
@@ -19,7 +19,7 @@ From my tests among both brushes, it results that the parametric is better than 
 
 The default shapes are round, square and diamond. Is also possible create a great variation of the shapes, using the different parameters to control the shape and its aspect (radius, spikes, hardness, aspect ratio, angle and spacing).
 
-The stroke of parametric brush is more sharpest and hard when we use hardness equal 1 when we compare with the raster brushes, is much easy to increase/decrease the softness via own editor or via Tool Options … instead the .gbr when we increase/decrease the hardness the stain is deformed by the blur algorithm how is possible in this gitlab issue: https://gitlab.gnome.org/GNOME/gimp/issues/1081
+The stroke of parametric brush is more sharpest and hard when we use hardness equal 1 when we compare with the raster brushes, is much easy to increase/decrease the softness via own editor or via Tool Options … instead the .gbr when we increase/decrease the hardness the stain is deformed by the blur algorithm how is possible in this gitlab issue: [Comparison test between hardness and Force with .gbr and .vbr brushes](https://gitlab.gnome.org/GNOME/gimp/issues/1081 "Issue #1081")
 
 ## How to combine parametric brushes and paint dynamics
 I think is not possible have an unequivocal rule to combine brushes with paint dynamics, instead is possible to say that, in general: each paint dynamics represents an effect or a different technique.
@@ -54,6 +54,14 @@ The idea to put in evidence these brushes is motivated by the real possibilities
 This set contains the .vbr basic brushes, round and block (hard and soft versions). The 'BO' folder contains the .vbr basic brushes, round and block (hard and soft versions).
 
 ## Tool Options settings
+To emulate better the dry media is necessary also some Tool Options setting conditions enabled.
+* Enable the Dynamic Options > Fade > Use 100 and '%' unit.
+* Enable the Jitter and use values between .5~1.0 circa.
+* Incremental Option On.
+* Force(1) at 100% (normally is 50% by default).
+*(1)Only to GIMP 2.10 and 2.99 Devel.*
+
+We have tested on GIMP 2.10, 2.99 and 2.8 with good results.
 
 ### Author, License and Download
-The Brush Set + Paint Dynamics [[download](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Brushset + Dry Media Paint Dynamics")] was created by Americo Gobbo and licensed as Public Domain.
+The [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Parametric Brush Set + Dry Media Paint Dynamics") was created by Americo Gobbo and licensed as Public Domain.
