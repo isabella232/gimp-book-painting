@@ -14,7 +14,13 @@ I thought a simple test … I did a parametric calligraphic brush, very small wi
 
 From my tests among both brushes, it results that the parametric is better than its equivalent .gbr, if are thinking in classic dabs, round, square, diamond and variations of shape forms based in spikes.
 
+<<<<<<< HEAD
 ![](parametric-brushes.assets/parametric-brushes-basic-parametric-brushes-editor-brs.png)_Brushset and Parametric Editor_
+=======
+<div style="margin:20px;">
+![](./parametric-brushes.assets/parametric-brushes-basic-parametric-brushes-editor-brs.png)
+<div style="font-size:small;">_Brushset and Parametric Editor_</div></div>
+>>>>>>> 0559d61b5ad1519d80e777be0c10f4523ee1c8de
 
 The default shapes are round, square and diamond. Is also possible create a great variation of the shapes, using the different parameters to control the shape and its aspect (radius, spikes, hardness, aspect ratio, angle and spacing).
 
