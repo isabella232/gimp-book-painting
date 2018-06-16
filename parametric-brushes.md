@@ -3,7 +3,7 @@ Author: Americo Americo <br>
 Date: 2018 June
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-personaggio-bizarro.jpg">
-<figcaption>A fast sample made in 2013 by Americo Gobbo with Dry Media paint and parametric brushes.</figcaption>
+<figcaption><br>A fast sample made in 2013 by Americo Gobbo with Dry Media paint and parametric brushes.</figcaption>
 </figure>
 
 ## Which is better as classical brush, the parametric or a raster brush?
@@ -25,7 +25,7 @@ The stroke of parametric brush is more sharpest and hard when we use hardness eq
 ## How to combine parametric brushes and paint dynamics
 I think is not possible have an unequivocal rule to combine brushes with paint dynamics, instead is possible to say that, in general: each paint dynamics represents an effect or a different technique.
 
-![](parametric-brushes.assets/parametric-brushes-deveze-parametric-brushset-sample.png)_A Gustavo Deveze using the Dry Media paint dynamics with the brushset of parametric brushes._
+![](parametric-brushes.assets/parametric-brushes-deveze-parametric-brushset-sample.png)<br>*A Gustavo Deveze using the Dry Media paint dynamics with the brushset of parametric brushes.*
 
 ### Dry Media Experiments
 I thought to begin with classic main dry media as pencil, crayon, charcoal and pastel.
@@ -37,9 +37,9 @@ Basically the paint dynamic emulates the technique and the brush emulates the st
 To explore I have revised a bit the Pencil Generic Paint Dynamics
 to adapt better it to other dry media and it [here](parametric-brushes.assets/Dry-Media.gdyn).
 
-![](parametric-brushes.assets/parametric-brushes-paintbrush-test.png)_Samples using **Paintbrush tool** with all parametric brushes of the set, shared on **Download topic**, using my paint dynamic Dry Media._
+![](parametric-brushes.assets/parametric-brushes-paintbrush-test.png)<br>_Samples using **Paintbrush tool** with all parametric brushes of the set, shared on **Download topic**, using my paint dynamic Dry Media._
 
-![](parametric-brushes.assets/parametric-brushes-airbrush-test.png)_Samples with Dry Media Paint Dynamics using **Airbrush tool** with all parametric brushes of set shared on Download topic._
+![](parametric-brushes.assets/parametric-brushes-airbrush-test.png)<br>_Samples with Dry Media Paint Dynamics using **Airbrush tool** with all parametric brushes of set shared on Download topic._
 
 ### Samples and Tests
 Samples and tests are published in 2013 on my g+ account and, all are realized with a paint dynamics shared [here](). [ToDo]
