@@ -7,7 +7,6 @@ Date: 2018 June
 </figure>
 
 ## Which is better as classical brush, the parametric or a raster brush?
-
 On GIMP the brush set have a small amount of parametric brushes… why reason? Sincerely I do not know, perhaps, many illustrators, concept artists, photographers have been accustomed to see/utilize only raster brushes.
 
 My idea is very simple, up to what point the parametric brush, as a classical brush, could be used on digital painting?
@@ -35,14 +34,14 @@ I think that an unique dynamic is capable emulate practically all these dry medi
 Basically the paint dynamic emulates the technique and the brush emulates the stain quality and characteristics of the medium, but this is not always true, what I am saying is: that in certain cases some stain marks could be alone and without paint dynamics represents a good mark for a dry medium, but with limitations to use effectively to paint. In general, a good paint dynamics dedicated to a paint technique, e.g., dry media, it could work with many stain marks also with marks thought or pulled by another medium as watercolor, for instance.
 
 To explore I have revised a bit the Pencil Generic Paint Dynamics
-to adapt better it to other dry media and it [here](parametric-brushes.assets/Dry-Media.gdyn).
+to adapt better it to other dry media and it is [here](parametric-brushes.assets/parametric-brushes-Dry-Media.gdyn "Dry Media Paint Dynamics")
 
 ![](parametric-brushes.assets/parametric-brushes-paintbrush-test.png)<br>_Samples using **Paintbrush tool** with all parametric brushes of the set, shared on **Download topic**, using my paint dynamic Dry Media._
 
 ![](parametric-brushes.assets/parametric-brushes-airbrush-test.png)<br>_Samples with Dry Media Paint Dynamics using **Airbrush tool** with all parametric brushes of set shared on Download topic._
 
 ### Samples and Tests
-Samples and tests are published in 2013 on my g+ account and, all are realized with a paint dynamics shared [here](). [ToDo]
+Samples and tests are published in 2013 on my g+ account and, all are realized with my **Dry Media** Paint Dynamics.
 
 * Testing to promote parametric brushes on GIMP. [See](https://plus.google.com/u/0/+AmericoGobbo/posts/PXvru8Rfumz)
 * Comparison 1 of the dry media between parametric and raster brushes. [See](https://plus.google.com/+AmericoGobbo/posts/cLiZ6UZJ8w4)
@@ -57,4 +56,4 @@ This set contains the .vbr basic brushes, round and block (hard and soft version
 ## Tool Options settings
 
 ### Author, License and Download
-The Brush Set [[download](todo Alt="download here")] was created by Americo Gobbo and licensed as Public Domain.
+The Brush Set + Paint Dynamics [[download](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Brushset + Dry Media Paint Dynamics")] was created by Americo Gobbo and licensed as Public Domain.
