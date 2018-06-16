@@ -1,7 +1,7 @@
 # Parametric versus Raster brush
 Author: Americo Americo</br>Date: 2018 June
 
-<div style="font-size:small">_A fast sample made in 2013 by Americo Gobbo with Dry Media paint and parametric brushes._</div>
+_A fast sample made in 2013 by Americo Gobbo with Dry Media paint and parametric brushes._
 
 ## Which is better as classical brush, the parametric or a raster brush?
 
