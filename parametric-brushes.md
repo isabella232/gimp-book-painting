@@ -1,9 +1,8 @@
 # Parametric versus Raster brush
-Author: Americo Americo</br>
-Date: 2018 June
+Author: Americo Americo</br>Date: 2018 June
 
-![](parametric-brushes.assets/parametric-brushes-noise-in-my-head-2013.jpeg)
-<div style="font-size:small">_Noise in my head, by Jag, 2013._</div>
+<div style="margin:20px"><img src="parametric-brushes.assets/parametric-brushes-personaggio-bizarro_noises-brushes-with-my-generic-pencil-dyna.jpg" ></img>
+<div style="font-size:small">_A fast sample made in 2013 by Americo Gobbo with Dry Media paint and parametric brushes._</div></div>
 
 ## Which is better as classical brush, the parametric or a raster brush?
 
@@ -14,8 +13,9 @@ My idea is very simple, up to what point the parametric brush, as a classical br
 I thought a simple test … I did a parametric calligraphic brush, very small with a radius equal to 12 px. After I have made a stamp of my parametric brush and build a static raster brush (.gbr).
 
 From my tests among both brushes, it results that the parametric is better than its equivalent .gbr, if are thinking in classic dabs, round, square, diamond and variations of shape forms based in spikes.
-
-<div style="font-size:small">_Figure 1 - Simple strokes comparison between parametric and static raster brush with same seed._</div>
+<div style="margin:20px;">
+![](parametric-brushes.assets/parametric-brushes-basic-parametric-brushes-editor-brs.png)
+<div style="font-size:small;">_Brushset and Parametric Editor_</div></div>
 
 The default shapes are round, square and diamond. Is also possible create a great variation of the shapes, using the different parameters to control the shape and its aspect (radius, spikes, hardness, aspect ratio, angle and spacing).
 
@@ -24,8 +24,9 @@ The stroke of parametric brush is more sharpest and hard when we use hardness eq
 ## How to combine parametric brushes and paint dynamics
 I think is not possible have an unequivocal rule to combine brushes with paint dynamics, instead is possible to say that, in general: each paint dynamics represents an effect or a different technique.
 
-<img src="parametric-brushes.assets/parametric-brushes-personaggio-bizarro_noises-brushes-with-my-generic-pencil-dyna.jpg" style="float: left"></img>
-<div style="font-size:small">_Figure 2 - A fast sample made with many paint dynamics with the same parametric brush._</dib>
+<div style="margin:20px">
+![](parametric-brushes.assets/parametric-brushes-deveze-parametric-brushset-sample.png)
+<div style="font-size:small">_A Gustavo Deveze using the Dry Media paint dynamics with the brushset of parametric brushes._</div></div>
 
 ### Dry Media Experiments
 I thought to begin with classic main dry media as pencil, crayon, charcoal and pastel.
@@ -35,16 +36,22 @@ I think that an unique dynamic is capable emulate practically all these dry medi
 Basically the paint dynamic emulates the technique and the brush emulates the stain quality and characteristics of the medium, but this is not always true, what I am saying is: that in certain cases some stain marks could be alone and without paint dynamics represents a good mark for a dry medium, but with limitations to use effectively to paint. In general, a good paint dynamics dedicated to a paint technique, e.g., dry media, it could work with many stain marks also with marks thought or pulled by another medium as watercolor, for instance.
 
 To explore I have revised a bit the Pencil Generic Paint Dynamics
-to adapt better it to other dry media and it [here](). [ToDo]
+to adapt better it to other dry media and it [here](./parametric-brushes.assets/Dry-Media.gdyn).
+[there][8b871197]
 
-<div style="font-size:small">_Figure 3 - Samples using many parametric brushes with my paint dynamic for dry media._</div> [ToDo]
+  [8b871197]: parametric-brushes.assets/Dry-Media.gdyn "Prova"
 
-<div style="font-size:small">_Figure 4 - Sample with my Paint dynamics for generic dry media with airbrush and other paint tools. I’ve used the jitter to control the spread of the medium._</div>[ToDo]
+<div style="float:left;margin:20px">
+![](parametric-brushes.assets/parametric-brushes-basic-parametric-brushes-jag-test.png)<div style="font-size:small">_Samples using **Paintbrush tool** with all parametric brushes of the set, shared on **Download topic**, using my paint dynamic Dry Media._</div></div>
+
+<div style="float:left;margin:20px">
+![](parametric-brushes.assets/parametric-brushes-basic-parametric-brushes-jag-test-airbrush.png)
+<div style="font-size:small">_Samples with Dry Media Paint Dynamics using **Airbrush tool** with all parametric brushes of set shared on Download topic._</div></div>
 
 ### Samples and Tests
 Samples and tests are published in 2013 on my g+ account and, all are realized with a paint dynamics shared [here](). [ToDo]
 
-* Testing 0 to promote parametric brushes on GIMP. [See](https://plus.google.com/u/0/+AmericoGobbo/posts/PXvru8Rfumz)
+* Testing to promote parametric brushes on GIMP. [See](https://plus.google.com/u/0/+AmericoGobbo/posts/PXvru8Rfumz)
 * Comparison 1 of the dry media between parametric and raster brushes. [See](https://plus.google.com/+AmericoGobbo/posts/cLiZ6UZJ8w4)
 * Comparison 2 between raster and parametric brushes with or not paint dynamics and different jitter values applied. [See](https://plus.google.com/+AmericoGobbo/posts/Jgv6q2o7Gee)
 * Comparison 3 and conclusions about the behavior of paint dynamics for dry media  between parametric and raster brushes. [See](https://plus.google.com/+AmericoGobbo/posts/VHy2sNcteRK)
@@ -54,5 +61,7 @@ The idea to put in evidence these brushes is motivated by the real possibilities
 
 This set contains the .vbr basic brushes, round and block (hard and soft versions). The 'BO' folder contains the .vbr basic brushes, round and block (hard and soft versions).
 
+## Tool Options settings
+
 ### Author, License and Download
-The Brush Set [[download](todo)] was created by Americo Gobbo and licensed as Public Domain.
+The Brush Set [[download](todo Alt="download here")] was created by Americo Gobbo and licensed as Public Domain.
