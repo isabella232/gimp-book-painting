@@ -34,7 +34,7 @@ I think that an unique dynamic is capable emulate practically all these dry medi
 Basically the paint dynamic emulates the technique and the brush emulates the stain quality and characteristics of the medium, but this is not always true, what I am saying is: that in certain cases some stain marks could be alone and without paint dynamics represents a good mark for a dry medium, but with limitations to use effectively to paint. In general, a good paint dynamics dedicated to a paint technique, e.g., dry media, it could work with many stain marks also with marks thought or pulled by another medium as watercolor, for instance.
 
 To explore I have revised a bit the Pencil Generic Paint Dynamics
-to adapt better it to other dry media and it is [here](parametric-brushes.assets/parametric-brushes-Dry-Media.gdyn "Dry Media Paint Dynamics")
+to adapt better it to other dry media and it is [here.](parametric-brushes.assets/parametric-brushes-Dry-Media.zip "Dry Media Paint Dynamics")
 
 ![](parametric-brushes.assets/parametric-brushes-paintbrush-test.png)<br>_Samples using **Paintbrush tool** with all parametric brushes of the set, shared on **Download topic**, using my paint dynamic Dry Media._
 
