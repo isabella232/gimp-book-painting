@@ -36,9 +36,9 @@ Basically the paint dynamic emulates the technique and the brush emulates the st
 To explore I have revised a bit the Pencil Generic Paint Dynamics
 to adapt better it to other dry media and it is [here.](parametric-brushes.assets/parametric-brushes-Dry-Media.zip "Dry Media Paint Dynamics")
 
-![](parametric-brushes.assets/parametric-brushes-paintbrush-test.png)<br>_Samples using **Paintbrush tool** with all parametric brushes of the set, shared on **Download topic**, using my paint dynamic Dry Media._
+<figure><img src="parametric-brushes.assets/parametric-brushes-paintbrush-test.png" width="640" title="Parametric brush with Dry Media Paint Dynamics  - Paintbrush Tool" /><figcaption>Samples using **Paintbrush tool** with all parametric brushes of the set, shared on **Download topic**, using my paint dynamic Dry Media.</figcaption></figure>
 
-![](parametric-brushes.assets/parametric-brushes-airbrush-test.png)<br>_Samples with Dry Media Paint Dynamics using **Airbrush tool** with all parametric brushes of set shared on Download topic._
+<figure><img src="parametric-brushes.assets/parametric-brushes-airbrush-test.png" width="640" title="Parametric brush with Dry Media Paint Dynamics  - Paintbrush Tool" /><<figcaption>Samples with Dry Media Paint Dynamics using **Airbrush tool** with all parametric brushes of set shared on Download topic</figcaption></figure>
 
 ### Samples and Tests
 Samples and tests are published in 2013 on my g+ account and, all are realized with my **Dry Media** Paint Dynamics.
