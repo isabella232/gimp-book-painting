@@ -3,7 +3,7 @@ Author: Americo Gobbo<br>
 Date: 2018 June
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-personaggio-bizarro.jpg" width="640">
-<figcaption><br>*A fast sample made in 2013 by Americo Gobbo with Dry Media paint dynamics and parametric brushes.*</figcaption>
+<figcaption><br>A fast sample made in 2013 by Americo Gobbo with Dry Media paint dynamics and parametric brushes.</figcaption>
 </figure>
 
 ## Which is better as classical brush, the parametric or a raster brush?
@@ -24,7 +24,7 @@ The stroke of parametric brush is more sharpest and hard when we use hardness eq
 ## How to combine parametric brushes and paint dynamics
 I think is not possible have an unequivocal rule to combine brushes with paint dynamics, instead is possible to say that, in general: each paint dynamics represents an effect or a different technique.
 
-<figure><img src="parametric-brushes.assets/parametric-brushes-mary-cassat-part-jag.jpg" width="640" /><br><figcaption>*Interpretation of Mary Cassat painting with pastel by Americo Gobbo. Dry Media paint dynamics with the brush set of parametric brushes.*</figcaption></figure>
+<figure><img src="parametric-brushes.assets/parametric-brushes-mary-cassat-part-jag.jpg" width="640" /><br><figcaption>Interpretation of Mary Cassat painting with pastel by Americo Gobbo. Dry Media paint dynamics with the brush set of parametric brushes.</figcaption></figure>
 
 ### Dry Media Experiments
 I thought to begin with classic main dry media as pencil, crayon, charcoal and pastel.
