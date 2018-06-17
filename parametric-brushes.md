@@ -24,7 +24,7 @@ The stroke of parametric brush is more sharpest and hard when we use hardness eq
 ## How to combine parametric brushes and paint dynamics
 I think is not possible have an unequivocal rule to combine brushes with paint dynamics, instead is possible to say that, in general: each paint dynamics represents an effect or a different technique.
 
-![](parametric-brushes.assets/parametric-brushes-mary-cassat-part-jag.webp)<br>*Interpretation of Mary Cassat painting with pastel.  Dry Media paint dynamics with the brush set of parametric brushes.*
+![](parametric-brushes.assets/parametric-brushes-mary-cassat-part-jag.jpg)<br>*Interpretation of Mary Cassat painting with pastel by Americo Gobbo. Dry Media paint dynamics with the brush set of parametric brushes.*
 
 ### Dry Media Experiments
 I thought to begin with classic main dry media as pencil, crayon, charcoal and pastel.
