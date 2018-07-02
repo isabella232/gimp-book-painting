@@ -36,10 +36,10 @@ The parameters that we can use to emulate these aspects on digital painting coul
 6. Blending skill [color (fg/bg); opacity x tilt, hardness x tilt, ...)
 
 ## References:
-[Dry Media Definition](https://helenatkn.wordpress.com/2016/03/15/dry-media-wet-media-digital-media-individual-research/ "Dry Media Definition")
-[Steven Saitzyk Website Project- Adjunt Professor at Art Center of Design in Pasadena](http://www.trueart.info/?page_id=289 "True Art Information - Information About Artist's Meterials")
-[Pigments History](http://www.jcsparks.com/painted/pigment-chem.html "Pigments History")
-[Pigment Catalog](http://www.webexhibits.org/pigments/intro/pigments.html "Pigments Trough the Ages")
-[Pigments on Wikipedia](https://en.wikipedia.org/wiki/Pigment "Pigment History and References")
+1. [Dry Media Definition](https://helenatkn.wordpress.com/2016/03/15/dry-media-wet-media-digital-media-individual-research/ "Dry Media Definition")
+2. [Steven Saitzyk Website Project- Adjunt Professor at Art Center of Design in Pasadena](http://www.trueart.info/?page_id=289 "True Art Information - Information About Artist's Meterials")
+3. [Pigments History](http://www.jcsparks.com/painted/pigment-chem.html "Pigments History")
+4. [Pigment Catalog](http://www.webexhibits.org/pigments/intro/pigments.html "Pigments Trough the Ages")
+5. [Pigments on Wikipedia](https://en.wikipedia.org/wiki/Pigment "Pigment History and References")
 
 
