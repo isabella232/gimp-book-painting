@@ -6,6 +6,7 @@ These drawing tools depending of the material which is build releases onto suppo
 The dry media is probably the most ancestral way of visual communication, for instance, the Lascaux's and Altamira's caves are a great example of that.
 The dry media are the main tools to drawing and sketching on the most common artistic tasks.
 ### Dry Media Techniques
+Here I will try study how these aspects could be emulated via paint dynamics, for instance, the 'outline' technique is very simple to emulate but 'gradate' and 'layering' are just more complex, because they need blending capabilities.
 The more common techniques are:
 
 1. Outline
