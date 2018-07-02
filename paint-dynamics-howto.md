@@ -19,7 +19,7 @@ The more common techniques are:
 6. Layering
 
 #### Paint Tools and Dry Media
-For the traditional techniques as 'Outline', 'Hatching' and 'Cross Hatching' is possible to use all main paint tools to drawing (pencil, paintbrush). Instead, to 'Pointillism', 'Gradate' and 'Layering' we need paint tools with some capability to blending as is possible with 'Airbrush' and 'Smudge' (because they have control of Rate and Flow), though partially. The effective blending is done by blend modes applied directly on paint tool, what is possible only with 'Airbrush'.
+For the traditional techniques as 'Outline', 'Hatching' and 'Cross Hatching' is possible to use all main paint tools to drawing: pencil and paintbrush. These tools are interesting also to 'Pointillism', 'Gradate' and 'Layering' using the blend modes (Darken Only is my preferred), but the strokes are a bit uniform, some times it seems an opaque technique as 'Tempera' or 'Gouache'. Instead, using the 'Airbrush' or the 'Smudge', but mainly the 'Airbrush' because the Rate and Flow controls the blending is more effective and well done than other tools.
 
 
 ### Dry Media Marks and Emulation techniques
@@ -40,7 +40,7 @@ The parameters that we can use to emulate these aspects on digital painting coul
 3. Angle (size, opacity, hardness, );
 4. Pressure (size, opacity, mark texture, );
 5. Velocity and Acceleration (size, opacity, mark texture, );
-6. Blending skill [color (fg/bg); opacity x tilt, hardness x tilt, ...)
+6. Blending skill [color (fg/bg); opacity x tilt, hardness x tilt, Rate, Flow and Blend Modes)
 
 #### Troubleshooting of knew issues
 
