@@ -44,18 +44,18 @@ Samples and tests are published in 2013 on my g+ account and, all are realized w
 * Comparison 2 between raster and parametric brushes with or not paint dynamics and different jitter values applied. [See](https://plus.google.com/+AmericoGobbo/posts/Jgv6q2o7Gee)
 * Comparison 3 and conclusions about the behavior of paint dynamics for dry media  between parametric and raster brushes. [See](https://plus.google.com/+AmericoGobbo/posts/VHy2sNcteRK)
 
-## Parametric Basic Brush Set
-This set contains the .vbr basic brushes, round and block (hard and soft versions). The 'BO' folder contains the .vbr basic brushes, round and block (hard and soft versions).
+## Parametric Basic Brush Set and Paint Dynamics
+The brush set contains the .vbr basic brushes, round and block (hard and soft versions). The 'B0' folder contains the .vbr basic brushes, round and block (hard and soft versions).
 
-The [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Parametric Brush Set + Dry Media Paint Dynamics")
+Download [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Parametric Brush Set + Dry Media Paint Dynamics").
 
 ## Tool Options settings
 To emulate better the dry media is necessary also some Tool Options setting conditions enabled.
 * Enable the Dynamic Options > Fade > Use 100 and '%' unit.
 * Enable the Jitter and use values between .5~1.0 circa.
 * Incremental Option On.
-* Force(1) at 100% (normally is 50% by default).
-*(1)Only to GIMP 2.10 and 2.99 Devel.*
+* Force(¹) at 100% (normally is 50% by default).
+*(¹)Only to GIMP 2.10 and 2.99 Devel.*
 
 We have tested on GIMP 2.10, 2.99 and 2.8 with good results.
 
