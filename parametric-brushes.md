@@ -28,9 +28,7 @@ To explore the dry media effects with parametric brushes, I have revised a bit t
 to adapt better it to other dry media and it is [here.](parametric-brushes.assets/parametric-brushes-Dry-Media.zip "Dry Media Paint Dynamics").
 Is possible to use different tools, pencil, paintbrush and airbrush, but, effectively the airbrush is more interesting.
 
-<figure><img src="parametric-brushes.assets/parametric-brushes-paintbrush-test.png" width="640" title="Parametric brush with Dry Media Paint Dynamics  - Paintbrush Tool" /><br><figcaption>Samples using Paintbrush tool with all parametric brushes of the set, shared on Download topic, using my paint dynamic Dry Media.</figcaption></figure>
-
-<figure><img src="parametric-brushes.assets/parametric-brushes-airbrush-test.png" width="640" title="Parametric brush with Dry Media Paint Dynamics  - Airbrush Tool" /><br><figcaption>Samples with Dry Media Paint Dynamics using Airbrush tool with all parametric brushes of set shared on Download topic</figcaption></figure>
+<figure><img src="parametric-brushes.assets/parametric-brushes-dry-media-airbrush-x-paintbrush.png" width="" title="Parametric brush with Dry Media Paint Dynamics  - Paintbrush Tool versus Airbrush Tool" /><br><figcaption>Samples using round parametric brushes of the set with my paint dynamic Dry Media.</figcaption></figure>
 
 ## Parametric Basic Brush Set and Paint Dynamics | Download
 The brush set contains the .vbr basic brushes, round and block (hard and soft versions). The 'B0' folder contains the .vbr basic brushes, round and block (hard and soft versions).
