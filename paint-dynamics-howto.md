@@ -1,6 +1,8 @@
 # How to use the GIMP Paint Dynamics
 The main scope is describe the guidelines to emulate some paint techniques.
 
+Basically the paint dynamic emulates the technique and the brush emulates the stain quality and characteristics of the medium, but this is not always true, what I am saying is: that in certain cases some stain marks could be alone and without paint dynamics represents a good mark for a dry medium, but with limitations to use effectively to paint. In general, a good paint dynamics dedicated to a paint technique, e.g., dry media, it could work with many stain marks also with marks thought or pulled by another medium as watercolor, for instance.
+
 ## Dry Media
 Dry Media is normally associated with drawing tools, such as *graphite pencils*, *charcoal*, *pastel* and *crayon*.
 These drawing tools depending of the material which is build releases onto support surface, in general paper, creating a characteristic mark.
@@ -71,5 +73,3 @@ Some against of raster brushes are:
 3. [Pigments History](http://www.jcsparks.com/painted/pigment-chem.html "Pigments History")
 4. [Pigment Catalog](http://www.webexhibits.org/pigments/intro/pigments.html "Pigments Trough the Ages")
 5. [Pigments on Wikipedia](https://en.wikipedia.org/wiki/Pigment "Pigment History and References")
-
-

@@ -1,4 +1,4 @@
-# Parametric versus Raster brush
+# Parametric Brush
 Author: Americo Gobbo<br>
 Date: 2018 June
 
@@ -6,8 +6,8 @@ Date: 2018 June
 <figcaption><br>A fast sample made in 2013 by Americo Gobbo with Dry Media paint dynamics and parametric brushes.</figcaption>
 </figure>
 
-## Which is better as classical brush, the parametric or a raster brush?
-The idea to put in evidence these brushes is motivated by the real possibilities of the parametric brushes on GIMP to solve many issues of pictorial techniques with simple and dedicated paint dynamics.
+## The Parametric and Pictorial Techniques
+The idea to put in evidence these brushes is motivated by the real possibilities of the parametric brushes on GIMP to solve many issues of pictorial techniques with a simple and dedicated paint dynamics.
 
 On GIMP the brush set have a small amount of parametric brushes… why reason? Sincerely I do not know, perhaps, many illustrators, concept artists, photographers have been accustomed to see/utilize only raster brushes.
 The main scope of this article is to see the misused of parametric brush on GIMP and to demonstrate how is possible to use the parametric brush with paint dynamics to emulate many kind of media, for instance, the dry media.
@@ -20,10 +20,6 @@ The stroke of parametric brush is more sharpest and hard when we use hardness eq
 
 ### Dry Media Experiments
 I thought to begin with classic main dry media as pencil, crayon, charcoal and pastel.
-
-I think that an unique dynamic is capable emulate practically all these dry medias. Is possible to identify many brushes, raster and/or parametric, that can be utilized with this paint dynamic … more opaque and darken is possible emulate charcoal and oil crayon … less opaque and lighter, the dry crayons and pencils.
-
-Basically the paint dynamic emulates the technique and the brush emulates the stain quality and characteristics of the medium, but this is not always true, what I am saying is: that in certain cases some stain marks could be alone and without paint dynamics represents a good mark for a dry medium, but with limitations to use effectively to paint. In general, a good paint dynamics dedicated to a paint technique, e.g., dry media, it could work with many stain marks also with marks thought or pulled by another medium as watercolor, for instance.
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-deveze-dry-media-test.png" width="640" title="Dry Media by Gustavo Deveze" /><br><figcaption>Gustavo Deveze drawing with the Dry Media paint dynamics with the brush set of parametric brushes.</figcaption></figure>
 
@@ -49,7 +45,7 @@ The brush set contains the .vbr basic brushes, round and block (hard and soft ve
 
 Download [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Parametric Brush Set + Dry Media Paint Dynamics").
 
-## Tool Options settings
+## Tool Options Settings
 To emulate better the dry media is necessary also some Tool Options setting conditions enabled.
 * Enable the Dynamic Options > Fade > Use 100 and '%' unit.
 * Enable the Jitter and use values between .5~1.0 circa.
