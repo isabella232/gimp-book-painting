@@ -25,8 +25,10 @@ Basically the paint dynamic emulates the technique and the brush emulates the st
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-deveze-dry-media-test.png" width="640" title="Dry Media by Gustavo Deveze" /><br><figcaption>Gustavo Deveze drawing with the Dry Media paint dynamics with the brush set of parametric brushes.</figcaption></figure>
 
-To explore I have revised a bit the Pencil Generic Paint Dynamics
-to adapt better it to other dry media and it is [here.](parametric-brushes.assets/parametric-brushes-Dry-Media.zip "Dry Media Paint Dynamics")
+#### Paintbrush and Airbrush Tool
+To explore the dry media effects with parametric brushes, I have revised a bit the Pencil Generic Paint Dynamics
+to adapt better it to other dry media and it is [here.](parametric-brushes.assets/parametric-brushes-Dry-Media.zip "Dry Media Paint Dynamics").
+Is possible to use different tools, pencil, paintbrush and airbrush, but, effectively the airbrush is more interesting.
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-paintbrush-test.png" width="640" title="Parametric brush with Dry Media Paint Dynamics  - Paintbrush Tool" /><br><figcaption>Samples using Paintbrush tool with all parametric brushes of the set, shared on Download topic, using my paint dynamic Dry Media.</figcaption></figure>
 
