@@ -8,12 +8,7 @@ Date: 2018 June
 
 ## Which is better as classical brush, the parametric or a raster brush?
 On GIMP the brush set have a small amount of parametric brushes… why reason? Sincerely I do not know, perhaps, many illustrators, concept artists, photographers have been accustomed to see/utilize only raster brushes.
-
-My idea is very simple, up to what point the parametric brush, as a classical brush, could be used on digital painting?
-
-I thought a simple test … I did a parametric calligraphic brush, very small with a radius equal to 12 px. After I have made a stamp of my parametric brush and build a static raster brush (.gbr).
-
-From my tests among both brushes, it results that the parametric is better than its equivalent .gbr, if are thinking in classic dabs, round, square, diamond and variations of shape forms based in spikes.
+The main scope of this article is to see the misused of parametric brush on GIMP and to demonstrate how is possible to use the parametric brush with paint dynamics to emulate many kind of media, for instance, the dry media.
 
 ![](parametric-brushes.assets/parametric-brushes-dialog-editor.png "Image Title")<br>*Brush set and Parametric Editor*
 
@@ -21,17 +16,14 @@ The default shapes are round, square and diamond. Is also possible create a grea
 
 The stroke of parametric brush is more sharpest and hard when we use hardness equal 1 when we compare with the raster brushes, is much easy to increase/decrease the softness via own editor or via Tool Options … instead the .gbr when we increase/decrease the hardness the stain is deformed by the blur algorithm how is possible in this gitlab issue: [Comparison test between hardness and Force with .gbr and .vbr brushes](https://gitlab.gnome.org/GNOME/gimp/issues/1081 "Issue #1081")
 
-## How to combine parametric brushes and paint dynamics
-I think is not possible have an unequivocal rule to combine brushes with paint dynamics, instead is possible to say that, in general: each paint dynamics represents an effect or a different technique.
-
-<figure><img src="" width="640" title="Mary Casset painting interpreted by Americo Gobbo" /><br><figcaption>Interpretation of Mary Cassat painting with pastel by Americo Gobbo. Dry Media paint dynamics with the brush set of parametric brushes.</figcaption></figure>
-
 ### Dry Media Experiments
 I thought to begin with classic main dry media as pencil, crayon, charcoal and pastel.
 
 I think that an unique dynamic is capable emulate practically all these dry medias. Is possible to identify many brushes, raster and/or parametric, that can be utilized with this paint dynamic … more opaque and darken is possible emulate charcoal and oil crayon … less opaque and lighter, the dry crayons and pencils.
 
 Basically the paint dynamic emulates the technique and the brush emulates the stain quality and characteristics of the medium, but this is not always true, what I am saying is: that in certain cases some stain marks could be alone and without paint dynamics represents a good mark for a dry medium, but with limitations to use effectively to paint. In general, a good paint dynamics dedicated to a paint technique, e.g., dry media, it could work with many stain marks also with marks thought or pulled by another medium as watercolor, for instance.
+
+<figure><img src="" width="640" title="Mary Casset painting interpreted by Americo Gobbo" /><br><figcaption>Interpretation of Mary Cassat painting with pastel by Americo Gobbo. Dry Media paint dynamics with the brush set of parametric brushes.</figcaption></figure>
 
 To explore I have revised a bit the Pencil Generic Paint Dynamics
 to adapt better it to other dry media and it is [here.](parametric-brushes.assets/parametric-brushes-Dry-Media.zip "Dry Media Paint Dynamics")

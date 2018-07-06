@@ -1,5 +1,6 @@
 # How to use the GIMP Paint Dynamics
 The main scope is describe the guidelines to emulate some paint techniques.
+
 ## Dry Media
 Dry Media is normally associated with drawing tools, such as *graphite pencils*, *charcoal*, *pastel* and *crayon*.
 These drawing tools depending of the material which is build releases onto support surface, in general paper, creating a characteristic mark.
@@ -19,8 +20,7 @@ The more common techniques are:
 6. Layering
 
 #### Paint Tools and Dry Media
-For the traditional techniques as 'Outline', 'Hatching' and 'Cross Hatching' is possible to use all main paint tools to drawing: pencil and paintbrush. These tools are interesting also to 'Pointillism', 'Gradate' and 'Layering' using the blend modes (Darken Only is my preferred), but the strokes are a bit uniform, some times it seems an opaque technique as 'Tempera' or 'Gouache'. Instead, using the 'Airbrush' or the 'Smudge', but mainly the 'Airbrush' because the Rate and Flow controls the blending is more effective and well done than other tools.
-
+For the traditional techniques as 'Outline', 'Hatching' and 'Cross Hatching' is possible to use all main paint tools to drawing: pencil and paintbrush. These tools are interesting also to 'Pointillism', 'Gradate' and 'Layering' using the blend modes (Darken Only is my preferred), but the strokes are a bit uniform, some times it seems an opaque technique as 'Tempera' or 'Gouache'. Instead, using the 'Airbrush' or the 'Smudge', but mainly the 'Airbrush', because it has the Rate and Flow controls and the blending is more effective and well done than other tools.
 
 ### Dry Media Marks and Emulation techniques
 In general all dry media are similar marks among them with variations on the granularity, e.g., the graphite pencil has different hardness and is possible to see the charcoal aspect with graphite pencils with hardness around 4B~6B.
@@ -44,6 +44,26 @@ The parameters that we can use to emulate these aspects on digital painting coul
 
 #### Troubleshooting of knew issues
 
+### Kind of Brushes
+GIMP has two types of brushes: the parametric and raster brushes (.gbr and .gih).
+The parametric brush is effectively a vector brush and it has the great possibilities and flexibility for many tasks in different tasks and branches (graphic design, photography, digital painting, etc...)
+The raster brush is also versatile and has great pictorial qualities but is more complex to build because is managed as image.
+Probably the choice, between raster and parametric brush, is done by the kind of task, the painter style and of his/her artistic background/knowledge/taste.
+
+#### Parametric Brushes
+Is possible to use the parametric brush for many of the traditional tasks of the painting, for instance, sketching, drafts, studies, etc. The parametric brush compared to .gih/.gbr brush is a bit poor, mainly when the artist  has a style more sophisticated, or in other words, an own style.
+
+The parametric brushes, in general, are working very well in many aspects, for instance:
+1. the processing is more fast when we comparing with .gih/.gbr brushes.
+2. the hardness is applied correctly on the shapes.
+3. has an own editor... instead the .gih/.gbr doesn't has.
+
+#### Raster Brushes (.gbr and .gih)
+The raster brushes are more knew for the majority of users and because mainly, the usage is more common or popular. When we compare with parametric brushes we have some advantages and not. In general, they are more interesting for the artists where their styles follow an texture finishing not usual or classic. With .gih/.gbr brushes, we can use any stain to emulate many real aspects of traditional techniques and they can be used in many ways: like as classic painter or like as Van Gogh. If you use the .gih brush, for instance, is more sophisticated than a .gbr brush because is possible to have more aspects and behaviors together and, this amplified in another way, more advanced, than the .gbr brush, that is essentially a static brush.
+
+Some against of raster brushes are:
+1. the hardness is not applied correctly/oddly on gih/gbr, see: https://gitlab.gnome.org/GNOME/gimp/issues/1081
+2. has not a own editor, instead is managed like as an image and plugins to create the binary archives.
 
 ## References:
 1. [Dry Media Definition](https://helenatkn.wordpress.com/2016/03/15/dry-media-wet-media-digital-media-individual-research/ "Dry Media Definition")
