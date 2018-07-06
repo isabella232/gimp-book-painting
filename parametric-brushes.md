@@ -32,15 +32,7 @@ Is possible to use different tools, pencil, paintbrush and airbrush, but, effect
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-airbrush-test.png" width="640" title="Parametric brush with Dry Media Paint Dynamics  - Airbrush Tool" /><br><figcaption>Samples with Dry Media Paint Dynamics using Airbrush tool with all parametric brushes of set shared on Download topic</figcaption></figure>
 
-### Samples and Tests
-Samples and tests are published in 2013 on my g+ account and, all are realized with my **Dry Media** Paint Dynamics.
-
-* Testing to promote parametric brushes on GIMP. [See](https://plus.google.com/u/0/+AmericoGobbo/posts/PXvru8Rfumz)
-* Comparison 1 of the dry media between parametric and raster brushes. [See](https://plus.google.com/+AmericoGobbo/posts/cLiZ6UZJ8w4)
-* Comparison 2 between raster and parametric brushes with or not paint dynamics and different jitter values applied. [See](https://plus.google.com/+AmericoGobbo/posts/Jgv6q2o7Gee)
-* Comparison 3 and conclusions about the behavior of paint dynamics for dry media  between parametric and raster brushes. [See](https://plus.google.com/+AmericoGobbo/posts/VHy2sNcteRK)
-
-## Parametric Basic Brush Set and Paint Dynamics
+## Parametric Basic Brush Set and Paint Dynamics | Download
 The brush set contains the .vbr basic brushes, round and block (hard and soft versions). The 'B0' folder contains the .vbr basic brushes, round and block (hard and soft versions).
 
 Download [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Parametric Brush Set + Dry Media Paint Dynamics").
