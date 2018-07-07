@@ -36,8 +36,6 @@ I have verified, also, that is possible to use different tools, pencil, paintbru
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-dry-media-airbrush-x-paintbrush.png" width="" title="Parametric brush with Dry Media Paint Dynamics  - Paintbrush Tool versus Airbrush Tool" /><br><figcaption>Samples using round parametric brushes of the set with my paint dynamic Dry Media.</figcaption></figure>
 
-
-
 In general, all size brushes are working well, but mainly between 8 ~ 64 pixels is the better compromise. The large brushes are interesting to covering large areas and is not possible to have a good shape, they are appearing a bit soft.
 
 ## Parametric Basic Brush Set and Paint Dynamics | Download
@@ -46,7 +44,7 @@ The brush set contains the .vbr basic brushes, round and block (hard and soft ve
 Download [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Parametric Brush Set + Dry Media Paint Dynamics").
 
 ## Tool Options Settings
-To emulate better the dry media is necessary to use Airbrush Tool with this setting conditions on Tool Options:
+To emulate better the dry media I recommend to use Airbrush Tool with this setting conditions on Tool Options:
 * Opacity 75 ~ 100
 * Enable the Jitter and use values between 0.5 ~ 0.75 circa.
 * Force(¹) at 100% (normally is 50% by default).
