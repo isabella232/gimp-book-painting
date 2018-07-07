@@ -6,7 +6,7 @@ Date: 2018 June
 <figcaption><br>A fast sample made in 2013 by Americo Gobbo with Dry Media paint dynamics and parametric brushes.</figcaption>
 </figure>
 
-## The Parametric and Pictorial Techniques
+## The Parametric Brush and Painting Techniques
 The main scope of this article is to see the misused of parametric brush on GIMP and to demonstrate how is possible to use the parametric brush with paint dynamics to emulate many kind of media, for instance, the dry media.
 
 On GIMP the brush set have a small amount of parametric brushes… why reason? Sincerely I do not know, perhaps, many illustrators, concept artists, photographers have been accustomed to see/utilize only raster brushes.
@@ -15,9 +15,9 @@ On GIMP the brush set have a small amount of parametric brushes… why reason? S
 
 The default shapes are round, square and diamond. Is also possible create a great variation of the shapes, using the different parameters to control the shape and its aspect (radius, spikes, hardness, aspect ratio, angle and spacing).
 
-Some of advantages of parametric brushes are:
-* The stroke of parametric brush is more sharpest and hard when we use hardness equal 1 than with the raster brushes,
-* is much easy to increase/decrease the softness via own editor or via Tool Options … instead the .gbr when we increase/decrease the hardness the stain is deformed by the blur algorithm: [Comparison test between hardness and Force with .gbr and .vbr brushes](https://gitlab.gnome.org/GNOME/gimp/issues/1081 "Issue #1081")
+Some of the advantages of parametric brushes are:
+* The stroke of the parametric brush is more sharpest and hard when we use hardness equal 1 than with the raster brushes,
+* Is much easy to increase/decrease the hardness via own editor or via Tool Options … instead, the .gbr and .gih brushes, when we increase/decrease the hardness, the stain is deformed by the blur algorithm: [Comparison test between hardness and Force with .gbr and .vbr brushes](https://gitlab.gnome.org/GNOME/gimp/issues/1081 "Issue #1081")
 
 ### Dry Media Experiments
 In 2013, I began study the dry media with parametric brushes, they are essentially the drawing tools as pencil, crayon, charcoal and pastel.
