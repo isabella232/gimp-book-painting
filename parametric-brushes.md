@@ -39,7 +39,7 @@ I have verified, also, that is possible to use different tools, pencil, paintbru
 In general, all size brushes are working well, but mainly between 8 ~ 64 pixels is the better compromise. The large brushes are interesting to covering large areas and is not possible to have a good shape, they are appearing a bit soft.
 
 ## Parametric Basic Brush Set and Paint Dynamics | Download
-The brush set contains the .vbr basic brushes, round and block (hard and soft versions). The 'B0' folder contains the .vbr basic brushes, round and block (hard and soft versions).
+The brush set, in 'B0' folder, contains the .vbr basic brushes, round and block (hard and soft versions). The paint dynamics are two: for the graphics tablet's stylus with tilt and not. The version with tilt is fun to use and is possible to emulate well the effect when you are inclining the tool in the real cases.
 
 Download [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Parametric Brush Set + Dry Media Paint Dynamics").
 
