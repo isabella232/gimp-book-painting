@@ -52,10 +52,13 @@ Download [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brush
 To emulate better the dry media I recommend to use Airbrush Tool with this setting conditions on Tool Options:
 * Opacity 75 ~ 100
 * Enable the Jitter and use values between 0.5 ~ 0.75 circa.
-* Force¹ at 100% (normally is 50% by default).<br>
+* Force¹ at 100% (normally is 50% by default).
+* Rate between 75 to 125
+* Flow around 50
+* Motion Only, read this [excerpt](https://goo.gl/PLTUKt "About Motion Only to the Airbrush tool") of The Book of GIMP: A Complete Guide to Nearly Everything. By Olivier Lecarme, Karine Delvare.<br>
 *¹ Only to GIMP 2.10 and 2.99 Devel.*
 
-<figure><img src="" width="" title="Tool Options Settings" /><br><figcaption>Airbrush, my proposal of the settings to the dry media effects.</figcaption></figure>
+<figure><img src="parametric-brushes.assets/parametric-brushes-tool-options-settings-dry-media.png" width="" title="Tool Options Settings" /><br><figcaption>Airbrush, my proposal of the settings to the dry media effects.</figcaption></figure>
 
 We have tested on GIMP 2.10, 2.99 and 2.8 with good results.
 
@@ -63,3 +66,4 @@ We have tested on GIMP 2.10, 2.99 and 2.8 with good results.
 Created by Americo Gobbo and licensed as Public Domain.
 
 ### Acknowledges
+To Elle Stone and Gustavo Deveze to help me with paint dynamics tests and images to illustrate this document. Also, thanks to Patrick David to give me support in the gitlab and formatting of the article to gimp.org.
