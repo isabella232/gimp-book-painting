@@ -64,7 +64,7 @@ To emulate better the dry media I recommend to use Airbrush Tool with this setti
 
 We have tested on GIMP 2.10, 2.99 and 2.8 with good results.
 
-### Author, License
+### Author, License (Brush Set and Paint Dynamics)
 Created by Americo Gobbo and licensed as Public Domain.
 
 ### Acknowledges
