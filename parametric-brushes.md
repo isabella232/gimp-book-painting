@@ -23,11 +23,11 @@ The default shapes are round, square and diamond. Is also possible create a grea
 
 Some of the advantages of parametric brushes are:
 * The stroke of the parametric brush is more sharpest and hard when we use hardness equal 1 than with the raster brushes,
-* Is much easy to increase/decrease the hardness via own editor or via Tool Options … instead, the .gbr and .gih brushes, when we increase/decrease the hardness, the stain is deformed by the blur algorithm: [Comparison test between hardness and Force with .gbr and .vbr brushes](https://gitlab.gnome.org/GNOME/gimp/issues/1081 "Issue #1081")
+* Is much easy to increase/decrease the hardness, is applied correctly, via own editor or via Tool Options … instead, the .gbr and .gih brushes, when we increase/decrease the hardness, the stain is deformed by the blur algorithm: [Comparison test between hardness and Force with .gbr and .vbr brushes](https://gitlab.gnome.org/GNOME/gimp/issues/1081 "Issue #1081")
 
 ### Dry Media Experiments
 In 2013, I began study the dry media with parametric brushes, they are essentially the drawing tools as pencil, crayon, charcoal and pastel.
-I have invited also Gustavo Deveze to use my parametric brush set with 2 paint dynamics dedicated exclusively to dry media.
+I have invited also Gustavo Deveze and Elle Stone to use my parametric brush set with 2 paint dynamics dedicated exclusively to dry media.
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-deveze-dry-media-test.png" width="640" title="Dry Media by Gustavo Deveze" /><br><figcaption>Gustavo Deveze drawing with the Dry Media paint dynamics with the brush set of parametric brushes.</figcaption></figure>
 
@@ -41,10 +41,12 @@ I have verified, also, that is possible to use different tools, pencil, paintbru
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-dry-media-airbrush-x-paintbrush.png" width="" title="Parametric brush with Dry Media Paint Dynamics  - Paintbrush Tool versus Airbrush Tool" /><br><figcaption>Samples using round parametric brushes of the set with my paint dynamic Dry Media.</figcaption></figure>
 
-In general, all size brushes are working well, but mainly between 8 ~ 64 pixels is the better compromise. The large brushes are interesting to covering large areas and is not possible to have a good shape, they are appearing a bit soft.
+In general, all size brushes are working well, but mainly between 8 ~ 64 pixels it seems the better compromise. The large brushes are interesting for covering large areas and is not possible to have a good shape, they are appearing a bit soft.
 
 ## Parametric Basic Brush Set and Paint Dynamics | Download
 The brush set, in 'B0' folder, contains the .vbr basic brushes, round and block (hard and soft versions). The paint dynamics are two: for the graphics tablet's stylus with tilt and not. The version with tilt is fun to use and is possible to emulate well the effect when you are inclining the tool in the real cases.
+
+> In general, it seems that users prefer to pick the brushes directly on the dialog palette. The parametric brush is so easy to modify and create our own set... but many people don't have time and 'energy' to build own our brushes. To those, that they think that is a large set they could delete the brushes not usable for them.
 
 Download [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brushes-Brushset-and-paint-dynamics.zip "Parametric Brush Set + Dry Media Paint Dynamics").
 
