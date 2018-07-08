@@ -2,6 +2,7 @@
 Author: Americo Gobbo<br>
 Date: 2018 June
 
+
 <figure><img src="parametric-brushes.assets/parametric-brushes-personaggio-bizarro.jpg" width="640">
 <figcaption><br>A fast sample made in 2013 by Americo Gobbo with Dry Media paint dynamics and parametric brushes.</figcaption>
 </figure>
