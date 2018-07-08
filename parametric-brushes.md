@@ -7,9 +7,7 @@ Date: 2018 June
 </figure>
 
 ## The Parametric Brush and Painting Techniques
-The main scope of this article is to see the misused of parametric brush on GIMP and to demonstrate how is possible to use the parametric brush with paint dynamics to emulate many kind of media, for instance, the dry media.
-
-On GIMP the brush set have a small amount of parametric brushes… why reason? Sincerely I do not know, perhaps, many illustrators, concept artists, photographers have been accustomed to see/utilize only raster brushes.
+It seems artists haven't yet realized the full usefulness and versatility of GIMP's parametric brushes, especially when paired with the proper dynamics. This article shows how to use parametric brushes to make convincing emulations of dry media such as pencil, color pencil, charcoal, chalk and pastel.
 
 ![](parametric-brushes.assets/parametric-brushes-dialog-editor.png "Image Title")<br>*Brush set and Parametric Editor*
 
@@ -22,7 +20,6 @@ Some of the advantages of parametric brushes are:
 ### Dry Media Experiments
 In 2013, I began study the dry media with parametric brushes, they are essentially the drawing tools as pencil, crayon, charcoal and pastel.
 I have invited also Gustavo Deveze to use my parametric brush set with 2 paint dynamics dedicated exclusively to dry media.
-...
 
 <figure><img src="parametric-brushes.assets/parametric-brushes-deveze-dry-media-test.png" width="640" title="Dry Media by Gustavo Deveze" /><br><figcaption>Gustavo Deveze drawing with the Dry Media paint dynamics with the brush set of parametric brushes.</figcaption></figure>
 
@@ -47,10 +44,14 @@ Download [Brush Set + Paint Dynamics](parametric-brushes.assets/parametric-brush
 To emulate better the dry media I recommend to use Airbrush Tool with this setting conditions on Tool Options:
 * Opacity 75 ~ 100
 * Enable the Jitter and use values between 0.5 ~ 0.75 circa.
-* Force(¹) at 100% (normally is 50% by default).
-*(¹)Only to GIMP 2.10 and 2.99 Devel.*
+* Force¹ at 100% (normally is 50% by default).<br>
+*¹ Only to GIMP 2.10 and 2.99 Devel.*
+
+<figure><img src="" width="" title="Tool Options Settings" /><br><figcaption>Airbrush, my proposal of the settings to the dry media effects.</figcaption></figure>
 
 We have tested on GIMP 2.10, 2.99 and 2.8 with good results.
 
 ### Author, License
 Created by Americo Gobbo and licensed as Public Domain.
+
+### Acknowledges
