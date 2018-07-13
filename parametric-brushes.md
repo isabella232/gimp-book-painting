@@ -44,6 +44,8 @@ I have verified, also, that is possible to use different tools, pencil, paintbru
 In general, all size brushes are working well, but mainly between 8 ~ 64 pixels it seems the better compromise. The large brushes are interesting for covering large areas and is not possible to have a good shape, they are appearing a bit soft.
 
 ## Parametric Basic Brush Set and Paint Dynamics | Download
+<figure><img src="parametric-brushes.assets/parametric-brushes-shapes-and-strokes-dry-media.png" width="" title="Parametric brush with Dry Media Paint Dynamics with Airbrush Tool" /><br><figcaption>Samples using round parametric brushes with different shapes with Airbrush tool. Tool.</figcaption></figure>
+
 The brush set, in 'B0' folder, contains the .vbr basic brushes, round and block (hard and soft versions). The paint dynamics are two: for the graphics tablet's stylus with tilt and not. The version with tilt is fun to use and is possible to emulate well the effect when you are inclining the tool in the real cases.
 
 > In general, it seems that users prefer to pick the brushes directly on the dialog palette. The parametric brush is so easy to modify and create our own set... but many people don't have time and 'energy' to build own our brushes. To those, that they think that is a large set they could delete the brushes not usable for them.
