@@ -39,7 +39,7 @@ After to work much with the variations of Pencil Generic... I have found a good 
 
 I have verified, also, that is possible to use different tools, pencil, paintbrush and airbrush, but, effectively the airbrush is more interesting, mainly of the Rate and Flow controls.
 
-<figure><img src="parametric-brushes.assets/parametric-brushes-dry-media-airbrush-x-paintbrush.png" width="" title="Parametric brush with Dry Media Paint Dynamics - Paintbrush Tool versus Airbrush Tool" /><br><figcaption>Samples using round parametric brushes of the set with my paint dynamic Dry Media.</figcaption></figure>
+<figure><img src="parametric-brushes.assets/parametric-brushes-dry-media-airbrush-x-paintbrush.png" width="640" title="Parametric brush with Dry Media Paint Dynamics - Paintbrush Tool versus Airbrush Tool" /><br><figcaption>Samples using round parametric brushes of the set with my paint dynamic Dry Media.</figcaption></figure>
 
 In general, all size brushes are working well, but mainly between 8 ~ 64 pixels it seems the better compromise. The large brushes are interesting for covering large areas and is not possible to have a good shape, they are appearing a bit soft.
 
