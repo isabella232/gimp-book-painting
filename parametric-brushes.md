@@ -8,7 +8,8 @@ Date: 2018 June
 </figure>
 
 ### GIMP Brushes
-GIMP has two types of brushes: the parametric and raster brushes (.gbr and .gih). The scope of this article mainly demonstrates the quality and possibility of parametric brushes. I am writing a dedicated article about the GIMP brushes and I have pasted the short intro about them:
+GIMP provides two very different types of brushes: the parametric (.vbr) and raster (.gbr and .gih).
+The scope of this article mainly demonstrates the quality and possibility of parametric brushes. I am writing a dedicated article about the GIMP brushes and I have pasted the short intro about them:
 
 > The parametric brush is a vector brush and it has the great possibilities and flexibility for many tasks in different tasks and branches (graphic design, photography, digital painting, etc...)
 The raster brush is also versatile and has great pictorial qualities but, is more complex to build because is managed as an image.
