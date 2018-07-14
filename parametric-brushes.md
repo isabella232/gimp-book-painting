@@ -17,7 +17,7 @@ Probably the choice, between raster and/or parametric brush, is done by the kind
 
 ## The Parametric Brush and Painting Techniques
 It seems artists haven't yet realized the full usefulness and versatility of GIMP's parametric brushes, especially when paired with the proper dynamics. This article shows how to use parametric brushes to make convincing emulations of dry media such as pencil, color pencil, charcoal, chalk and pastel.
-<figure><img src="parametric-brushes.assets/parametric-brushes-dialog-editor.png" width="" title="Parametric brush (.vbr) Editor." /><br><figcaption>Brush set and Parametric Editor (.vbr).</figcaption></figure>
+<figure><img src="parametric-brushes.assets/parametric-brushes-dialog-editor.png" width="" title="Brush Set and Parametric (.vbr) Brush Editor." /><br><figcaption>Brush set and Parametric Editor (.vbr).</figcaption></figure>
 
 The default shapes are round, square and diamond. Is also possible create a great variation of the shapes, using the different parameters to control the shape and its aspect (radius, spikes, hardness, aspect ratio, angle and spacing).
 
