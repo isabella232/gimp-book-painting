@@ -24,6 +24,11 @@ Bla bla bla :)
 
 ## Techniques and GIMP Paint Tools
 
+## Techniques and GIMP Assets
 
+## Modeling Techniques
+### Paint Dynamics
+### Brushes
+### Settings and tool presets
 
 
